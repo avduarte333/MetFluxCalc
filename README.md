@@ -16,6 +16,6 @@ In the case this file is not created, it means that the problem can't be solved.
 If this is the case the txt file will also display an extra information about redundant equations in case they exist.
 
 
-
+The program was developed using python 3.7
 
 
