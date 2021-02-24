@@ -1,0 +1,2 @@
+# MetFluxCalc
+This program aims to calculate velocities of chemical reactions. Given the reactions happening and the components (metabolites) being used, a stoichiometric matrix will be created. The problem we are trying to solve if of the form : Ax = b, where A is the stoichiometric matrix calculated by the program, and b is the accumulation matrix (balance of the determined fluxes (given by the user in oe of the files)), The goal is to find x. That is done by doing x = A^(-1) * b. If A is not a squared matrix, the pseudo-inverse will be used.
