@@ -9,9 +9,9 @@ In addition to uploading the code, 2 generic files needed to run the code will a
 
 For output the Program will produce 2/3 files
 
-1 excel file with the stoichiometric matrix
-1 txt file with information about the stoichiometric matrix
-1 excel file the velocities of the reactions (this file is only created if the rank of the matrix is greater or equal than the number of reactions)
+1 excel file with the stoichiometric matrix,
+1 txt file with information about the stoichiometric matrix,
+1 excel file the velocities of the reactions (this file is only created if the rank of the matrix is greater or equal than the number of reactions).
 In the case this file is not created, it means that the problem can't be solved. There must be specified more linear independent equations.
 If this is the case the txt file will also display an extra information about redundant equations in case they exist.
 
