@@ -1,0 +1,17 @@
+4 (Number of Reactions)
+Components
+Glc
+GAP
+G6P
+PEP
+Pyr
+F6P
+ATP
+FBP
+DHAP
+End of Components
+Reac
+1 Glc + 1 PEP = 1 G6P + 1 Pyr 
+1 G6P = 1 F6P 
+1 F6P + 1 ATP = 1 FBP 
+1 FBP = 1 DHAP + 1 GAP 
